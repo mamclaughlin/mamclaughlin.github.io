@@ -1,1 +1,3 @@
-# mamclaughlin.github.io
+# README #
+
+Mariah's Portfolio
